@@ -2,7 +2,8 @@
 title: Etch Fields
 slug: Etch.OrchardCore.Fields
 description:
-  Collection of useful content fields for Orchard Core.
+  Collection of useful content fields for Orchard Core. It helps site owners add this capability to Orchard Core
+  sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.Fields
 documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.Fields
 nuGetPackageId: Etch.OrchardCore.Fields

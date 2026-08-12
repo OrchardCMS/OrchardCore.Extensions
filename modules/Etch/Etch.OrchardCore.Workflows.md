@@ -2,7 +2,8 @@
 title: Etch Workflows
 slug: Etch.OrchardCore.Workflows
 description:
-  Module for Orchard Core provides useful Workflow tasks and events.
+  Module for Orchard Core provides useful Workflow tasks and events. It helps site owners add this capability to
+  Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.Workflows
 documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.Workflows
 nuGetPackageId: Etch.OrchardCore.Workflows

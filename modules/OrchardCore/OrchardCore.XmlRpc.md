@@ -2,15 +2,17 @@
 title: XML-RPC
 slug: OrchardCore.XmlRpc
 description:
-  The XML-RPC module enables creation of contents from client applications such as Open Live Writer.
+  The XML-RPC module enables creation of contents from client applications such as Open Live Writer. It includes
+  XML-RPC and Remote Publishing features in the Infrastructure area, making the package easier to find when
+  browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.XmlRpc
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/XmlRpc/
 nuGetPackageId: OrchardCore.XmlRpc
 tags: ["Orchard Core"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

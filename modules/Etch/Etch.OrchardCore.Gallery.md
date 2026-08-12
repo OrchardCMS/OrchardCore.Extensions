@@ -2,7 +2,8 @@
 title: Etch Gallery
 slug: Etch.OrchardCore.Gallery
 description:
-  Orchard Core module making it easy to create media galleries.
+  Orchard Core module making it easy to create media galleries. It helps site owners add this capability to
+  Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.Gallery
 documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.Gallery
 nuGetPackageId: Etch.OrchardCore.Gallery

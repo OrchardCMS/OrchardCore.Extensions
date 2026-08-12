@@ -2,15 +2,18 @@
 title: Elasticsearch
 slug: OrchardCore.Elasticsearch
 description:
-  Creates Elasticsearch indexes to support search scenarios, introduces a preconfigured container-enabled content type.
+  Creates Elasticsearch indexes to support search scenarios, introduces a preconfigured container-enabled
+  content type. It includes Elasticsearch, Elasticsearch (Obsolete) and related features in the Search area,
+  making the package easier to find when browsing related Orchard Core capabilities, dependencies, and
+  documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Elasticsearch
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Elasticsearch/
 nuGetPackageId: OrchardCore.Elasticsearch
 tags: ["Orchard Core"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

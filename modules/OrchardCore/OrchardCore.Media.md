@@ -2,15 +2,17 @@
 title: Media
 slug: OrchardCore.Media
 description:
-  The media module adds media management support.
+  The media module adds media management support. It includes Media, Media Indexing and related features in the
+  Content Management and Search area, making the package easier to find when browsing related Orchard Core
+  capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Media
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Media/
 nuGetPackageId: OrchardCore.Media
 tags: ["Orchard Core"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

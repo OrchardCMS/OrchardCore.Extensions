@@ -2,15 +2,17 @@
 title: Liquid
 slug: OrchardCore.Liquid
 description:
-  The liquid module enables content items to have liquid syntax.
+  The liquid module enables content items to have liquid syntax. It includes Liquid and Liquid Core Services
+  features in the Content Management area, making the package easier to find when browsing related Orchard Core
+  capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Liquid
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Liquid/
 nuGetPackageId: OrchardCore.Liquid
 tags: ["Orchard Core", "Content Management"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

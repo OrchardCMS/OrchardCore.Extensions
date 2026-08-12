@@ -2,7 +2,8 @@
 title: The Bootstrap Theme
 slug: TheBootstrapTheme
 description:
-  Orchard Core theme using Bootstrap.
+  Orchard Core theme using Bootstrap. Use this Orchard Core theme to start or customize a site design with
+  packaged templates, styles, source links, and documentation metadata available from the extensions gallery.
 projectUrl: https://github.com/agriffard/TheBootstrapTheme
 documentationUrl: https://github.com/agriffard/TheBootstrapTheme
 nuGetPackageId: TheBootstrapTheme
@@ -19,5 +20,4 @@ versions:
     package: 1.8.4
 pubDatetime: 2024-09-15T12:00:00Z
 ---
-
 A simple Bootstrap theme.

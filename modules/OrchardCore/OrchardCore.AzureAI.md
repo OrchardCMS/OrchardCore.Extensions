@@ -2,15 +2,17 @@
 title: Azure AI Search
 slug: OrchardCore.AzureAI
 description:
-  Provides Azure AI Search services for managing indexes and facilitating search scenarios within indexes.
+  Provides Azure AI Search services for managing indexes and facilitating search scenarios within indexes. It
+  includes Azure AI Search and Azure AI Search (Obsolete) features in the Search area, making the package easier
+  to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.AzureAI
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/AzureAI/
 nuGetPackageId: OrchardCore.AzureAI
 tags: ["Orchard Core"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

@@ -2,7 +2,8 @@
 title: Cookie Consent
 slug: CookieConsent.OrchardCore
 description:
-  A Cookie consent module for Orchard Core.
+  A Cookie consent module for Orchard Core. It helps site owners add this capability to Orchard Core sites while
+  exposing package, dependency, and documentation details in the extensions gallery.
 dependencies: ["OrchardCore.ContentFields"]
 projectUrl: https://github.com/agriffard/CookieConsent.OrchardCore
 documentationUrl: https://github.com/agriffard/CookieConsent.OrchardCore

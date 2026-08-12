@@ -1,15 +1,18 @@
 ---
 title: "Agent-to-Agent (A2A) Protocol"
 slug: CrestApps.OrchardCore.AI.A2A
-description: "Provides the Agent-to-Agent (A2A) Protocol module for Orchard Core."
+description:
+  Provides the Agent-to-Agent (A2A) Protocol module for Orchard Core. It includes Agent-to-Agent (A2A) Client
+  and Agent-to-Agent (A2A) Host features in the Artificial Intelligence - A2A area, making the package easier to
+  find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.A2A
 documentationUrl: https://orchardcore.crestapps.com/docs/ai/a2a/
 nuGetPackageId: CrestApps.OrchardCore.AI.A2A
-tags: ["CrestApps"]
+tags: ["crestapps"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

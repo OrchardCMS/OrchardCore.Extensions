@@ -2,7 +2,8 @@
 title: Etch Menu
 slug: Etch.OrchardCore.Menu
 description:
-  Orchard Core module that provides custom menu items.
+  Orchard Core module that provides custom menu items. It helps site owners add this capability to Orchard Core
+  sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.Menu
 documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.Menu
 nuGetPackageId: Etch.OrchardCore.Menu

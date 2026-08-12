@@ -2,15 +2,17 @@
 title: Twitter
 slug: OrchardCore.Twitter
 description:
-  Provides a TwitterClient and Workflow Activities to integrate with X (Twitter)
+  Provides a TwitterClient and Workflow Activities to integrate with X (Twitter). It includes X (Twitter)
+  Integration and Sign in with X (Twitter) features in the X (Twitter) area, making the package easier to find
+  when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Twitter
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Twitter/
 nuGetPackageId: OrchardCore.Twitter
 tags: ["Orchard Core", "X (Twitter)"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

@@ -2,15 +2,16 @@
 title: SignalR
 slug: OrchardCore.SignalR
 description:
-  Provides the services required to host and consume SignalR hubs.
+  Provides the services required to host and consume SignalR hubs. It helps site owners add this capability to
+  Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.SignalR
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/SignalR/
 nuGetPackageId: OrchardCore.SignalR
 tags: ["Orchard Core", "Infrastructure"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

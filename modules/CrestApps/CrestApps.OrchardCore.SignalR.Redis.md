@@ -1,15 +1,18 @@
 ---
 title: "SignalR Redis Backplane"
 slug: CrestApps.OrchardCore.SignalR.Redis
-description: "Routes SignalR messages across application nodes through a tenant-qualified Redis backplane."
+description:
+  Routes SignalR messages across application nodes through a tenant-qualified Redis backplane. It helps site
+  owners add this capability to Orchard Core sites while exposing package, dependency, and documentation details
+  in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.SignalR.Redis
 documentationUrl: https://orchardcore.crestapps.com/docs/modules/signalr
 nuGetPackageId: CrestApps.OrchardCore.SignalR.Redis
-tags: ["CrestApps", "Communication"]
+tags: ["crestapps", "Communication"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 dependencies: ["CrestApps.OrchardCore.SignalR", "OrchardCore.Redis"]
 pubDatetime: 2026-08-12T12:00:00Z

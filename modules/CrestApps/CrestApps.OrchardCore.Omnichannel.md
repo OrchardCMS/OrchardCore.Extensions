@@ -1,15 +1,18 @@
 ---
 title: "Omnichannel"
 slug: CrestApps.OrchardCore.Omnichannel
-description: "Provides the Omnichannel module for Orchard Core."
+description:
+  Provides the Omnichannel module for Orchard Core. It includes Omnichannel and Omnichannel - Azure
+  Communication Services features in the Contact Center area, making the package easier to find when browsing
+  related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.Omnichannel
 documentationUrl: https://orchardcore.crestapps.com/docs/omnichannel/
 nuGetPackageId: CrestApps.OrchardCore.Omnichannel
-tags: ["CrestApps", "Contact Center"]
+tags: ["crestapps", "Contact Center"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

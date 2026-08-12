@@ -2,15 +2,16 @@
 title: PDF Media Indexing
 slug: OrchardCore.Media.Indexing.Pdf
 description:
-  Provides a way to index PDF files in search providers.
+  Provides a way to index PDF files in search providers. It helps site owners add this capability to Orchard
+  Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Media.Indexing.Pdf
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Media.Indexing.Pdf/
 nuGetPackageId: OrchardCore.Media.Indexing.Pdf
 tags: ["Orchard Core", "Search"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 dependencies: ["OrchardCore.Media.Indexing"]
 pubDatetime: 2026-08-12T12:00:00Z

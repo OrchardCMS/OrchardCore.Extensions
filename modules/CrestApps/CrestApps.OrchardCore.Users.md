@@ -1,15 +1,18 @@
 ---
 title: "Users Core Components"
 slug: CrestApps.OrchardCore.Users
-description: "Provides the Users Core Components module for Orchard Core."
+description:
+  Provides the Users Core Components module for Orchard Core. It includes Users Core Components, User Display
+  Name and User Avatar features in the Users area, making the package easier to find when browsing related
+  Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.Users
 documentationUrl: https://orchardcore.crestapps.com/docs/modules/users
 nuGetPackageId: CrestApps.OrchardCore.Users
-tags: ["CrestApps", "Users"]
+tags: ["crestapps", "Users"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

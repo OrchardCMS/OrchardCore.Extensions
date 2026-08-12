@@ -1,15 +1,18 @@
 ---
 title: "DNC Registry"
 slug: CrestApps.OrchardCore.DncRegistry
-description: "Provides the DNC Registry module for Orchard Core."
+description:
+  Provides the DNC Registry module for Orchard Core. It includes DNC Registry, USA FTC Do Not Call Registry and
+  related features in the Compliance area, making the package easier to find when browsing related Orchard Core
+  capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.DncRegistry
 documentationUrl: https://orchardcore.crestapps.com/docs/modules/dnc-registry
 nuGetPackageId: CrestApps.OrchardCore.DncRegistry
-tags: ["CrestApps", "Compliance"]
+tags: ["crestapps", "Compliance"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

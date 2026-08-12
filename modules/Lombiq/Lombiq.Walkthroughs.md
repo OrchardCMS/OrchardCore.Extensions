@@ -2,7 +2,10 @@
 title: Lombiq Walkthroughs for Orchard Core
 slug: Lombiq.Walkthroughs
 description:
-  Do you want to learn about the most important Orchard Core features with a hands-on tutorial that guides you with interactive tooltips, right there in Orchard Core? This module is for you!
+  Do you want to learn about the most important Orchard Core features with a hands-on tutorial that guides you
+  with interactive tooltips, right there in Orchard Core? This module is for you! It helps site owners add this
+  capability to Orchard Core sites while exposing package, dependency, and documentation details in the
+  extensions gallery.
 projectUrl: https://github.com/Lombiq/Orchard-Walkthroughs
 documentationUrl: https://github.com/Lombiq/Orchard-Walkthroughs
 nuGetPackageId: Lombiq.Walkthroughs

@@ -2,15 +2,16 @@
 title: Mvc HelloWorld
 slug: OrchardCore.Mvc.HelloWorld
 description:
-  Provides the Mvc HelloWorld feature for Orchard Core.
+  Provides the Mvc HelloWorld feature for Orchard Core. It helps site owners add this capability to Orchard Core
+  sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Mvc.HelloWorld
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Mvc.HelloWorld/
 nuGetPackageId: OrchardCore.Mvc.HelloWorld
 tags: ["Orchard Core"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

@@ -2,15 +2,17 @@
 title: Alias
 slug: OrchardCore.Alias
 description:
-  The alias module enables content items to have custom logical identifier.
+  The alias module enables content items to have custom logical identifier. It helps site owners add this
+  capability to Orchard Core sites while exposing package, dependency, and documentation details in the
+  extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Alias
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Alias/
 nuGetPackageId: OrchardCore.Alias
 tags: ["Orchard Core", "Content Management"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 dependencies: ["OrchardCore.ContentTypes"]
 pubDatetime: 2026-08-12T12:00:00Z

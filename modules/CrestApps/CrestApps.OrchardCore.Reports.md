@@ -1,15 +1,18 @@
 ---
 title: "Reports"
 slug: CrestApps.OrchardCore.Reports
-description: "Provides a reusable reporting framework with a shared admin Reports area, extensible filters, and exports."
+description:
+  Provides a reusable reporting framework with a shared admin Reports area, extensible filters, and exports. It
+  helps site owners add this capability to Orchard Core sites while exposing package, dependency, and
+  documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.Reports
 documentationUrl: https://orchardcore.crestapps.com/docs/modules/reports
 nuGetPackageId: CrestApps.OrchardCore.Reports
-tags: ["CrestApps", "Reporting"]
+tags: ["crestapps", "Reporting"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

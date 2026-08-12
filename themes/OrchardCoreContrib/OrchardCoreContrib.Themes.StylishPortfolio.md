@@ -2,7 +2,9 @@
 title: Stylish Portfolio
 slug: OrchardCoreContrib.Themes.StylishPortfolio
 description:
-  A Free Bootstrap Theme by Start Bootstrap.
+  A Free Bootstrap Theme by Start Bootstrap. Use this Orchard Core theme to start or customize a site design
+  with packaged templates, styles, source links, and documentation metadata available from the extensions
+  gallery.
 projectUrl: https://github.com/OrchardCoreContrib/OrchardCoreContrib.Themes/blob/main/src/OrchardCoreContrib.Themes.StylishPortfolio/README.md
 documentationUrl: https://github.com/OrchardCoreContrib/OrchardCoreContrib.Themes/blob/main/src/OrchardCoreContrib.Themes.StylishPortfolio/README.md
 nuGetPackageId: OrchardCoreContrib.Themes.StylishPortfolio
@@ -16,5 +18,4 @@ author:
 licenses: [BSD]
 pubDatetime: 2024-09-15T12:00:00Z
 ---
-
 A Free Bootstrap Theme by Start Bootstrap.

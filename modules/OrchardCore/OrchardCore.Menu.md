@@ -2,15 +2,16 @@
 title: Menu
 slug: OrchardCore.Menu
 description:
-  The Menu module provides menu management features.
+  The Menu module provides menu management features. It helps site owners add this capability to Orchard Core
+  sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Menu
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Menu/
 nuGetPackageId: OrchardCore.Menu
 tags: ["Orchard Core", "Navigation"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 dependencies: ["OrchardCore.Contents", "OrchardCore.Title", "OrchardCore.Alias", "OrchardCore.Recipes.Core"]
 pubDatetime: 2026-08-12T12:00:00Z

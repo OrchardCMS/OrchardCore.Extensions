@@ -1,15 +1,17 @@
 ---
 title: "Reports (OpenXml)"
 slug: CrestApps.OrchardCore.Reports.OpenXml
-description: "Adds Excel (.xlsx) exports to the Reports framework using Open XML."
+description:
+  Adds Excel (.xlsx) exports to the Reports framework using Open XML. It helps site owners add this capability
+  to Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.Reports.OpenXml
 documentationUrl: https://orchardcore.crestapps.com/docs/modules/reports
 nuGetPackageId: CrestApps.OrchardCore.Reports.OpenXml
-tags: ["CrestApps", "Reporting"]
+tags: ["crestapps", "Reporting"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 dependencies: ["CrestApps.OrchardCore.Reports"]
 pubDatetime: 2026-08-12T12:00:00Z

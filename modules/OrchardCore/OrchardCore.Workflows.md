@@ -2,15 +2,17 @@
 title: Workflows
 slug: OrchardCore.Workflows
 description:
-  The Workflows module provides tools and APIs to create custom workflows
+  The Workflows module provides tools and APIs to create custom workflows. It includes Workflows, HTTP Workflows
+  Activities and related features in the Workflows area, making the package easier to find when browsing related
+  Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Workflows
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Workflows/
 nuGetPackageId: OrchardCore.Workflows
 tags: ["Orchard Core", "Workflows"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

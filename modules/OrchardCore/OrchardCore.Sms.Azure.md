@@ -2,15 +2,17 @@
 title: OrchardCore.Sms.Azure
 slug: OrchardCore.Sms.Azure
 description:
-  Enables the ability to send SMS messages through Azure Communication Services (ACS).
+  Enables the ability to send SMS messages through Azure Communication Services (ACS). It helps site owners add
+  this capability to Orchard Core sites while exposing package, dependency, and documentation details in the
+  extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Sms.Azure
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Sms.Azure/
 nuGetPackageId: OrchardCore.Sms.Azure
 tags: ["Orchard Core"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

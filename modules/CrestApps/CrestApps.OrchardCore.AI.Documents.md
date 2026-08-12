@@ -1,15 +1,18 @@
 ---
 title: "AI Documents"
 slug: CrestApps.OrchardCore.AI.Documents
-description: "Provides the AI Documents module for Orchard Core."
+description:
+  Provides the AI Documents module for Orchard Core. It includes AI Documents, AI Documents for Chat
+  Interactions and related features in the Artificial Intelligence - Knowledgebase area, making the package
+  easier to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Documents
 documentationUrl: https://orchardcore.crestapps.com/docs/ai/documents/
 nuGetPackageId: CrestApps.OrchardCore.AI.Documents
-tags: ["CrestApps"]
+tags: ["crestapps"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

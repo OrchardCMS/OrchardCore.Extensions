@@ -2,15 +2,17 @@
 title: Content Localization
 slug: OrchardCore.ContentLocalization
 description:
-  Provides a part that allows to localize content items.
+  Provides a part that allows to localize content items. It includes Content Localization, Content Culture
+  Picker and Localized Content Item Sitemaps features in the Internationalization area, making the package
+  easier to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.ContentLocalization
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/ContentLocalization/
 nuGetPackageId: OrchardCore.ContentLocalization
 tags: ["Orchard Core", "Internationalization"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

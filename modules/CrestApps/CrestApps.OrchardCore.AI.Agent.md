@@ -1,15 +1,18 @@
 ---
 title: "Orchard Core AI Agent"
 slug: CrestApps.OrchardCore.AI.Agent
-description: "Use natural language to run tasks, manage content, interact with OrchardCore features, and do much more with integrated AI-powered tools."
+description:
+  Use natural language to run tasks, manage content, interact with OrchardCore features, and do much more with
+  integrated AI-powered tools. It helps site owners add this capability to Orchard Core sites while exposing
+  package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Agent
 documentationUrl: https://orchardcore.crestapps.com/docs/ai/agent
 nuGetPackageId: CrestApps.OrchardCore.AI.Agent
-tags: ["CrestApps", "Artificial Intelligence"]
+tags: ["crestapps", "Artificial Intelligence"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 dependencies: ["CrestApps.OrchardCore.AI", "CrestApps.OrchardCore.Recipes"]
 pubDatetime: 2026-08-12T12:00:00Z

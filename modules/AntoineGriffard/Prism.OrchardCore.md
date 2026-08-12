@@ -2,7 +2,8 @@
 title: Prism
 slug: Prism.OrchardCore
 description:
-  A Prism module for Orchard Core.
+  A Prism module for Orchard Core. It helps site owners add this capability to Orchard Core sites while exposing
+  package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/agriffard/Prism.OrchardCore
 documentationUrl: https://github.com/agriffard/Prism.OrchardCore
 nuGetPackageId: Prism.OrchardCore

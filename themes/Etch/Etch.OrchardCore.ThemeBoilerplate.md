@@ -2,7 +2,9 @@
 title: Etch Theme Boilerplate
 slug: Etch.OrchardCore.ThemeBoilerplate
 description:
-  Boilerplate theme that is our starting point for building OrchardCore themes.
+  Boilerplate theme that is our starting point for building OrchardCore themes. Use this Orchard Core theme to
+  start or customize a site design with packaged templates, styles, source links, and documentation metadata
+  available from the extensions gallery.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.ThemeBoilerplate
 documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.ThemeBoilerplate
 nuGetPackageId: Etch.OrchardCore.ThemeBoilerplate
@@ -15,5 +17,4 @@ author:
 licenses: [MIT]
 pubDatetime: 2024-09-15T12:00:00Z
 ---
-
 Boilerplate theme that is our starting point for building OrchardCore themes.

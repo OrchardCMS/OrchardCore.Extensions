@@ -2,15 +2,16 @@
 title: Admin Dashboard
 slug: OrchardCore.AdminDashboard
 description:
-  Allows to organize widgets in an Admin Dashboard.
+  Allows to organize widgets in an Admin Dashboard. It helps site owners add this capability to Orchard Core
+  sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.AdminDashboard
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/AdminDashboard/
 nuGetPackageId: OrchardCore.AdminDashboard
 tags: ["Orchard Core", "Content Management"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 dependencies: ["OrchardCore.Admin", "OrchardCore.Html", "OrchardCore.Title", "OrchardCore.Recipes.Core"]
 pubDatetime: 2026-08-12T12:00:00Z

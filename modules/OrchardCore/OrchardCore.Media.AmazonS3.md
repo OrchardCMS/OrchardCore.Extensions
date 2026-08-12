@@ -2,15 +2,17 @@
 title: Amazon S3 Media
 slug: OrchardCore.Media.AmazonS3
 description:
-  Enables support for storing media files in Amazon S3.
+  Enables support for storing media files in Amazon S3. It includes Amazon Media Storage, Amazon Media Image
+  Cache and Amazon Media Image Cache (Obsolete) features in the Hosting area, making the package easier to find
+  when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Media.AmazonS3
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Media.AmazonS3/
 nuGetPackageId: OrchardCore.Media.AmazonS3
 tags: ["Orchard Core"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

@@ -2,7 +2,9 @@
 title: Modern Business
 slug: OrchardCoreContrib.Themes.ModernBusiness
 description:
-  Modern Business is a fully loaded Bootstrap 4 website starter template.
+  Modern Business is a fully loaded Bootstrap 4 website starter template. Use this Orchard Core theme to start
+  or customize a site design with packaged templates, styles, source links, and documentation metadata available
+  from the extensions gallery.
 projectUrl: https://github.com/OrchardCoreContrib/OrchardCoreContrib.Themes/blob/main/src/OrchardCoreContrib.Themes.ModernBusiness/README.md
 documentationUrl: https://github.com/OrchardCoreContrib/OrchardCoreContrib.Themes/blob/main/src/OrchardCoreContrib.Themes.ModernBusiness/README.md
 nuGetPackageId: OrchardCoreContrib.Themes.ModernBusiness
@@ -16,5 +18,4 @@ author:
 licenses: [BSD]
 pubDatetime: 2024-09-15T12:00:00Z
 ---
-
 Modern Business is a fully loaded Bootstrap 4 website starter template.

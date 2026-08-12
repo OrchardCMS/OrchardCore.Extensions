@@ -41,9 +41,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GALLERY_DISPATCH_TOKEN }}
         run: |
-          gh api \
+          if ! gh api \
             --method POST \
             -H "Accept: application/vnd.github+json" \
             "/repos/${GALLERY_REPOSITORY}/dispatches" \
             -f event_type=extensions-updated \
-            -f "client_payload[source_sha]=${{ github.sha }}"
+            -f "client_payload[source_sha]=${{ github.sha }}"; then
+            echo "::error::GALLERY_DISPATCH_TOKEN can access ${GALLERY_REPOSITORY}, but cannot create a repository_dispatch event. For a fine-grained PAT, grant Contents: Read and write on the Gallery repository and have the updated token request approved."
+            exit 1
+          fi

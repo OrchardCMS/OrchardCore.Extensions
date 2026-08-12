@@ -2,15 +2,17 @@
 title: Microsoft Authentication
 slug: OrchardCore.Microsoft.Authentication
 description:
-  Authenticates users with their Microsoft Account.
+  Authenticates users with their Microsoft Account. It includes Microsoft Account Authentication and Microsoft
+  Entra ID (Azure Active Directory) Authentication features in the Microsoft Authentication area, making the
+  package easier to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Microsoft.Authentication
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Microsoft.Authentication/
 nuGetPackageId: OrchardCore.Microsoft.Authentication
 tags: ["Orchard Core", "Microsoft Authentication"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

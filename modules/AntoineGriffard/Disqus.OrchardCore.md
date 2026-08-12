@@ -2,7 +2,8 @@
 title: Disqus
 slug: Disqus.OrchardCore
 description:
-  A Disqus comments module for Orchard Core.
+  A Disqus comments module for Orchard Core. It helps site owners add this capability to Orchard Core sites
+  while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/agriffard/Disqus.OrchardCore
 documentationUrl: https://github.com/agriffard/Disqus.OrchardCore
 nuGetPackageId: Disqus.OrchardCore

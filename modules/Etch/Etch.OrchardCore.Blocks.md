@@ -2,7 +2,8 @@
 title: Etch Blocks
 slug: Etch.OrchardCore.Blocks
 description:
-  Orchard Core module providing WYSIWYG editor via Editor.js.
+  Orchard Core module providing WYSIWYG editor via Editor.js. It helps site owners add this capability to
+  Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.Blocks
 documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.Blocks
 nuGetPackageId: Etch.OrchardCore.Blocks

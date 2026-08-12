@@ -2,15 +2,18 @@
 title: Content Fields
 slug: OrchardCore.ContentFields
 description:
-  Content Fields module adds common content fields to be used with your custom types.
+  Content Fields module adds common content fields to be used with your custom types. It includes Content
+  Fields, Content Fields Indexing (SQL) and Content Fields Indexing (SQL) - User Picker features in the Content
+  Management area, making the package easier to find when browsing related Orchard Core capabilities,
+  dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.ContentFields
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/ContentFields/
 nuGetPackageId: OrchardCore.ContentFields
 tags: ["Orchard Core", "Content Management"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

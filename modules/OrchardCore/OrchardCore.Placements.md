@@ -2,15 +2,17 @@
 title: Placements
 slug: OrchardCore.Placements
 description:
-  The Placements module provides a way to define shape placement in admin UI.
+  The Placements module provides a way to define shape placement in admin UI. It includes Placements and
+  Placements file storage features in the Development area, making the package easier to find when browsing
+  related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Placements
 documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Placements/
 nuGetPackageId: OrchardCore.Placements
 tags: ["Orchard Core"]
 author:
   name: The Orchard Core Team
-  url: https://github.com/OrchardCMS
-  imageUrl: https://avatars.githubusercontent.com/u/9933239
+  url: https://docs.orchardcore.net
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

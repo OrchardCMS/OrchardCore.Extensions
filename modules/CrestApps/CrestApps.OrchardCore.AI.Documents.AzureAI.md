@@ -1,15 +1,17 @@
 ---
 title: "AI Documents indexing using Azure AI Search"
 slug: CrestApps.OrchardCore.AI.Documents.AzureAI
-description: "Provides services to index AI Documents in Azure AI Search indexes."
+description:
+  Provides services to index AI Documents in Azure AI Search indexes. It helps site owners add this capability
+  to Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Documents.AzureAI
 documentationUrl: https://orchardcore.crestapps.com/docs/ai/documents/azure-ai
 nuGetPackageId: CrestApps.OrchardCore.AI.Documents.AzureAI
-tags: ["CrestApps", "Artificial Intelligence - Knowledgebase"]
+tags: ["crestapps", "Artificial Intelligence - Knowledgebase"]
 author:
   name: The CrestApps Team
-  url: https://www.crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/181091452
+  url: https://crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
 dependencies: ["CrestApps.OrchardCore.AI.Documents", "OrchardCore.Indexing", "OrchardCore.AzureAI"]
 pubDatetime: 2026-08-12T12:00:00Z
