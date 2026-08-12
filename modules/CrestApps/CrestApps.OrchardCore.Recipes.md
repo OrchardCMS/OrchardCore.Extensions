@@ -1,5 +1,5 @@
 ---
-title: "CrestApps Recipes"
+title: "Recipes (CrestApps)"
 slug: CrestApps.OrchardCore.Recipes
 description:
   Enhances Orchard Core recipe functionality by enabling detailed descriptions for recipes. It helps site owners

@@ -1,5 +1,5 @@
 ---
-title: "Users Core Components"
+title: "Users (CrestApps)"
 slug: CrestApps.OrchardCore.Users
 description:
   Provides the Users Core Components module for Orchard Core. It includes Users Core Components, User Display
