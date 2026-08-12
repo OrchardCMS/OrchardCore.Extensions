@@ -1,0 +1,29 @@
+---
+title: "Time Zones"
+slug: CrestApps.OrchardCore.TimeZones
+description: "Provides friendly named time zone maps and time zone picker services."
+projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.TimeZones
+documentationUrl: https://orchardcore.crestapps.com/docs/modules/time-zones
+nuGetPackageId: CrestApps.OrchardCore.TimeZones
+tags: ["CrestApps", "Infrastructure"]
+author:
+  name: The CrestApps Team
+  url: https://www.crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/181091452
+licenses: [MIT]
+pubDatetime: 2026-08-12T12:00:00Z
+features:
+  - id: CrestApps.OrchardCore.TimeZones.TimeZonesConstants.Features.Area
+    name: "Time Zones"
+    description: "Provides friendly named time zone maps, picker services, recipe import, and deployment export support. Its manifest-backed feature ID is `CrestApps.OrchardCore.TimeZones.TimeZonesConstants.Features.Area`, and it is categorized as Infrastructure. It depends on `OrchardCore.Recipes.Core`, so Orchard Core enables that dependency when this feature is enabled. This description is based on the CrestApps manifest and documentation; in Orchard Core, feature entries are shown in the feature management UI with their description, category, and dependencies."
+    category: "Infrastructure"
+    dependencies:
+      - OrchardCore.Recipes.Core
+---
+Provides friendly named time zone maps and time zone picker services.
+
+## Features
+
+### Time Zones
+
+Provides friendly named time zone maps, picker services, recipe import, and deployment export support. Its manifest-backed feature ID is `CrestApps.OrchardCore.TimeZones.TimeZonesConstants.Features.Area`, and it is categorized as Infrastructure. It depends on `OrchardCore.Recipes.Core`, so Orchard Core enables that dependency when this feature is enabled. This description is based on the CrestApps manifest and documentation; in Orchard Core, feature entries are shown in the feature management UI with their description, category, and dependencies.
