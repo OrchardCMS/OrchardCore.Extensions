@@ -4,6 +4,7 @@ slug: Lombiq.BaseTheme
 description:
   An Orchard Core base theme with reusable mixins, components.
 projectUrl: https://github.com/Lombiq/Orchard-Base-Theme
+documentationUrl: https://github.com/Lombiq/Orchard-Base-Theme
 nuGetPackageId: Lombiq.BaseTheme
 tags:
   - basetheme

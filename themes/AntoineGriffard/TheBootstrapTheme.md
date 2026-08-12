@@ -4,6 +4,7 @@ slug: TheBootstrapTheme
 description:
   Orchard Core theme using Bootstrap.
 projectUrl: https://github.com/agriffard/TheBootstrapTheme
+documentationUrl: https://github.com/agriffard/TheBootstrapTheme
 nuGetPackageId: TheBootstrapTheme
 tags:
   - bootstrap

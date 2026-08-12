@@ -4,6 +4,7 @@ slug: TheCreativeTheme
 description:
   Orchard Core theme with StartBootstrap Creative.
 projectUrl: https://github.com/agriffard/TheCreativeTheme
+documentationUrl: https://github.com/agriffard/TheCreativeTheme
 nuGetPackageId: TheCreativeTheme
 tags:
   - resume

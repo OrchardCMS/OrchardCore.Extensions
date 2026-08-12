@@ -4,6 +4,7 @@ slug: Lombiq.Walkthroughs
 description:
   Do you want to learn about the most important Orchard Core features with a hands-on tutorial that guides you with interactive tooltips, right there in Orchard Core? This module is for you!
 projectUrl: https://github.com/Lombiq/Orchard-Walkthroughs
+documentationUrl: https://github.com/Lombiq/Orchard-Walkthroughs
 nuGetPackageId: Lombiq.Walkthroughs
 tags:
   - Walkthroughs

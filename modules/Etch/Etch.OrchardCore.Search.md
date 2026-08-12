@@ -4,6 +4,7 @@ slug: Etch.OrchardCore.Search
 description:
   Module for Orchard Core for adding site search.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.Search
+documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.Search
 nuGetPackageId: Etch.OrchardCore.Search
 tags:
   - search

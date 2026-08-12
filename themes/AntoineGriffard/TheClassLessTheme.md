@@ -4,6 +4,7 @@ slug: TheClassLessTheme
 description:
   A classless theme for Orchard Core.
 projectUrl: https://github.com/agriffard/TheClassLessTheme
+documentationUrl: https://github.com/agriffard/TheClassLessTheme
 nuGetPackageId: TheClassLessTheme
 tags:
   - classless

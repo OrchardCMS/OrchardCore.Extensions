@@ -4,6 +4,7 @@ slug: Etch.OrchardCore.ThemeBoilerplate
 description:
   Boilerplate theme that is our starting point for building OrchardCore themes.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.ThemeBoilerplate
+documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.ThemeBoilerplate
 nuGetPackageId: Etch.OrchardCore.ThemeBoilerplate
 tags:
   - boilerplate

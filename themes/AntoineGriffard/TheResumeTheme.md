@@ -4,6 +4,7 @@ slug: TheResumeTheme
 description:
   A simple resume theme for Orchard Core.
 projectUrl: https://github.com/agriffard/TheResumeTheme
+documentationUrl: https://github.com/agriffard/TheResumeTheme
 nuGetPackageId: TheResumeTheme
 tags:
   - resume

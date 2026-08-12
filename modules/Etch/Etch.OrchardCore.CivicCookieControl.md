@@ -4,6 +4,7 @@ slug: Etch.OrchardCore.CivicCookieControl
 description:
   Orchard Core module for adding Cookie Control.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.CivicCookieControl
+documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.CivicCookieControl
 nuGetPackageId: Etch.OrchardCore.CivicCookieControl
 tags:
   - cookies

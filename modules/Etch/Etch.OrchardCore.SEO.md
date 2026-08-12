@@ -4,6 +4,7 @@ slug: Etch.OrchardCore.SEO
 description:
   Module for Orchard Core that provides useful features for SEO.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.SEO
+documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.SEO
 nuGetPackageId: Etch.OrchardCore.SEO
 tags:
   - seo

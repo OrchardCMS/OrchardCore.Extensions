@@ -4,6 +4,7 @@ slug: Prism.OrchardCore
 description:
   A Prism module for Orchard Core.
 projectUrl: https://github.com/agriffard/Prism.OrchardCore
+documentationUrl: https://github.com/agriffard/Prism.OrchardCore
 nuGetPackageId: Prism.OrchardCore
 tags:
   - prism

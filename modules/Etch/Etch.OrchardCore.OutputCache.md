@@ -4,6 +4,7 @@ slug: Etch.OrchardCore.OutputCache
 description:
   Output caching for Orchard Core.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.OutputCache
+documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.OutputCache
 nuGetPackageId: Etch.OrchardCore.OutputCache
 tags:
   - cache

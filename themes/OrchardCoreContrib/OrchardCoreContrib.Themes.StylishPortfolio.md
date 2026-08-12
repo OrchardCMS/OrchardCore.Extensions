@@ -4,6 +4,7 @@ slug: OrchardCoreContrib.Themes.StylishPortfolio
 description:
   A Free Bootstrap Theme by Start Bootstrap.
 projectUrl: https://github.com/OrchardCoreContrib/OrchardCoreContrib.Themes/blob/main/src/OrchardCoreContrib.Themes.StylishPortfolio/README.md
+documentationUrl: https://github.com/OrchardCoreContrib/OrchardCoreContrib.Themes/blob/main/src/OrchardCoreContrib.Themes.StylishPortfolio/README.md
 nuGetPackageId: OrchardCoreContrib.Themes.StylishPortfolio
 tags:
   - startbootstrap

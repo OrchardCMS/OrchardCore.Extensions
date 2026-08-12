@@ -4,6 +4,7 @@ slug: Etch.OrchardCore.Fields
 description:
   Collection of useful content fields for Orchard Core.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.Fields
+documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.Fields
 nuGetPackageId: Etch.OrchardCore.Fields
 tags:
   - fields

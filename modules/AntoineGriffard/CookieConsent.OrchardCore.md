@@ -5,6 +5,7 @@ description:
   A Cookie consent module for Orchard Core.
 dependencies: ["OrchardCore.ContentFields"]
 projectUrl: https://github.com/agriffard/CookieConsent.OrchardCore
+documentationUrl: https://github.com/agriffard/CookieConsent.OrchardCore
 nuGetPackageId: CookieConsent.OrchardCore
 tags:
   - cookies

@@ -4,6 +4,7 @@ slug: Etch.OrchardCore.AdminTheme
 description:
   Custom admin theme for Orchard Core.
 projectUrl: https://github.com/EtchUK/Etch.OrchardCore.AdminTheme
+documentationUrl: https://github.com/EtchUK/Etch.OrchardCore.AdminTheme
 nuGetPackageId: Etch.OrchardCore.AdminTheme
 tags:
   - admin

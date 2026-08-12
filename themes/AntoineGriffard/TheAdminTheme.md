@@ -4,6 +4,7 @@ slug: TheAdminTheme
 description:
   A custom admin theme for Orchard Core.
 projectUrl: https://github.com/agriffard/TheAdminTheme
+documentationUrl: https://github.com/agriffard/TheAdminTheme
 nuGetPackageId: TheAdminTheme
 tags:
   - admin

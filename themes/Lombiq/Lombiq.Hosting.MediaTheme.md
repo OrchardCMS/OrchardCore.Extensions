@@ -4,6 +4,7 @@ slug: Lombiq.Hosting.MediaTheme
 description:
   Orchard Core module for deploying themes to the Media Library, allowing full theming in a restricted SaaS scenario.
 projectUrl: https://github.com/Lombiq/Orchard-Base-Theme
+documentationUrl: https://github.com/Lombiq/Orchard-Base-Theme
 nuGetPackageId: Lombiq.Hosting.MediaTheme
 tags:
   - media
