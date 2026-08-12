@@ -6,7 +6,7 @@ description:
   Integration and Sign in with X (Twitter) features in the X (Twitter) area, making the package easier to find
   when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Twitter
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Twitter/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Twitter
 tags: ["Orchard Core", "X (Twitter)"]
 author:

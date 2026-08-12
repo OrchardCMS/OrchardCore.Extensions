@@ -6,7 +6,7 @@ description:
   Activities and related features in the Workflows area, making the package easier to find when browsing related
   Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Workflows
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Workflows/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Workflows
 tags: ["Orchard Core", "Workflows"]
 author:

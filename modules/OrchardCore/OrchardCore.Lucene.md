@@ -6,7 +6,7 @@ description:
   It includes Lucene, Lucene (Obsolete) and related features in the Search area, making the package easier to
   find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Lucene
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Lucene/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Lucene
 tags: ["Orchard Core"]
 author:

@@ -5,7 +5,7 @@ description:
   The markdown module enables content items to have markdown editors. It helps site owners add this capability
   to Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Markdown
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Markdown/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Markdown
 tags: ["Orchard Core", "Content Management"]
 author:

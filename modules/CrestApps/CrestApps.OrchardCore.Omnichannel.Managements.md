@@ -6,7 +6,7 @@ description:
   Omnichannel Management features in the Contact Center area, making the package easier to find when browsing
   related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.Omnichannel.Managements
-documentationUrl: https://orchardcore.crestapps.com/docs/omnichannel/management
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.Omnichannel.Managements
 tags: ["crestapps", "Contact Center"]
 author:

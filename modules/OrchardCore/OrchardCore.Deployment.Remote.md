@@ -5,7 +5,7 @@ description:
   Provide the ability to export and import to and from a remote server. It helps site owners add this capability
   to Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Deployment.Remote
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Deployment.Remote/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Deployment.Remote
 tags: ["Orchard Core", "Deployment"]
 author:

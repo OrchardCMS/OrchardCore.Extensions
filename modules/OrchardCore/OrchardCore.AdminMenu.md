@@ -5,7 +5,7 @@ description:
   The admin menu module enables user custom admin menus. It helps site owners add this capability to Orchard
   Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.AdminMenu
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/AdminMenu/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.AdminMenu
 tags: ["Orchard Core", "Content Management"]
 author:

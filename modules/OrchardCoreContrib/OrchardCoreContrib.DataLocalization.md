@@ -1,5 +1,5 @@
 ---
-title: "Orchard Core Contrib - Data Localization"
+title: "Data Localization (Contrib)"
 slug: OrchardCoreContrib.DataLocalization
 description:
   Provides localization for dynamic data. It helps Orchard Core sites add this community-maintained capability

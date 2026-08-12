@@ -5,7 +5,7 @@ description:
   The Rules module adds rule building capabilities. It helps site owners add this capability to Orchard Core
   sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Rules
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Rules/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Rules
 tags: ["Orchard Core"]
 author:

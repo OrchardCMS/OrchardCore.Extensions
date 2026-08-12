@@ -5,7 +5,7 @@ description:
   Provides the Azure OpenAI Services module for Orchard Core. It helps site owners add this capability to
   Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.OpenAI.Azure
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/providers/azure-openai
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.OpenAI.Azure
 tags: ["crestapps"]
 author:

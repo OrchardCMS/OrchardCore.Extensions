@@ -5,7 +5,7 @@ description:
   Stripe payment provider for Orchard Core Commerce. It helps Orchard Core sites add commerce capabilities while
   exposing package, dependency, source, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/src/Modules/OrchardCore.Commerce.Payment.Stripe
-documentationUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/src/Modules/OrchardCore.Commerce.Payment.Stripe
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Commerce.Payment.Stripe
 tags: ["Orchard Core", "Commerce", "e-Commerce", "Payment", "Stripe"]
 author:

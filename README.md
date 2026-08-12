@@ -8,12 +8,16 @@ Catalog entries are grouped by owner so contributors can maintain the modules an
 
 ```text
 modules/
+  CrestApps/
+    CrestApps.OrchardCore.AI.md
   Etch/
     Etch.OrchardCore.Fields.md
   Lombiq/
     Lombiq.Walkthroughs.md
   OrchardCore/
     OrchardCore.ContentFields.md
+  OrchardCoreContrib/
+    OrchardCoreContrib.Contents.md
 themes/
   Etch/
     Etch.OrchardCore.AdminTheme.md
@@ -27,9 +31,10 @@ Use the existing owner folder when one already exists. Create a new owner folder
 
 1. Add one Markdown file under `modules/<Owner>/` or `themes/<Owner>/`.
 2. Include YAML frontmatter with the required metadata.
-3. For modules, include a `features` list. Add one feature for single-feature modules and one entry per feature for modules that expose multiple Orchard Core features.
-4. Add a short Markdown body describing what the package does and link to documentation, samples, or source when useful.
-5. Open a pull request. The validation workflow checks folder grouping, duplicate slugs/package IDs, required metadata, URLs, and module feature definitions.
+3. Include `documentationUrl` when documentation exists for the package. Use the package documentation site, not necessarily a page for a specific feature.
+4. For modules, include a `features` list. Add one feature for single-feature modules and one entry per feature for modules that expose multiple Orchard Core features.
+5. Add a short Markdown body describing what the package does and link to documentation, samples, or source when useful.
+6. Open a pull request. The validation workflow checks folder grouping, duplicate slugs/package IDs, required metadata, URLs, line endings, and module feature definitions.
 
 ## Entry format
 
@@ -65,11 +70,15 @@ Describe the package here.
 
 Themes use the same metadata but do not need a `features` list.
 
+The required top-level fields are `title`, `slug`, `description`, `projectUrl`, `nuGetPackageId`, and `pubDatetime`. `documentationUrl` is optional, but when present it must be an absolute `http` or `https` URL.
+
+For first-party Orchard Core modules, set `documentationUrl` to <https://docs.orchardcore.net>. For CrestApps modules, set it to <https://orchardcore.crestapps.com>. OrchardCoreContrib package titles should use the `Name (Contrib)` format, such as `Content Localization (Contrib)`.
+
 ## Feature documentation
 
-Feature IDs must match the Orchard Core manifest IDs, not just the assembly or package name. If one package provides several features, document each feature separately with enough detail for gallery search results to explain what the feature does and what problem it solves.
+Feature IDs must match the Orchard Core manifest IDs, not just the assembly or package name. If one package provides several features, document each feature separately with enough detail for gallery search results to explain what the feature does and what problem it solves. Feature descriptions should be full paragraphs; the validator requires at least 180 characters.
 
-For Orchard Core built-in modules and themes, use the official Orchard Core documentation at <https://docs.orchardcore.net/en/latest/> and the module manifests as the source of truth. CrestApps Orchard Core documentation is available at <https://orchardcore.crestapps.com/> for CrestApps modules and related extensions.
+For Orchard Core built-in modules and themes, use the official Orchard Core documentation at <https://docs.orchardcore.net/> and the module manifests as the source of truth. CrestApps Orchard Core documentation is available at <https://orchardcore.crestapps.com/> for CrestApps modules and related extensions.
 
 ## Validation
 

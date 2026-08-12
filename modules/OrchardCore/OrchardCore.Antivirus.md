@@ -5,7 +5,7 @@ description:
   Scans files with ClamAV before Orchard Core stores them. It helps site owners add this capability to Orchard
   Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Antivirus
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Antivirus/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Antivirus
 tags: ["Orchard Core"]
 author:

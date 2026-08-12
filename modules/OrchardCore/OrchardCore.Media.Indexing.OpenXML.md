@@ -6,7 +6,7 @@ description:
   add this capability to Orchard Core sites while exposing package, dependency, and documentation details in the
   extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Media.Indexing.OpenXML
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Media.Indexing.OpenXML/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Media.Indexing.OpenXML
 tags: ["Orchard Core", "Search"]
 author:

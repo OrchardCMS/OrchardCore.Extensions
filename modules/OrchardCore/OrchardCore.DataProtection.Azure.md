@@ -5,7 +5,7 @@ description:
   Provides Azure Blob Storage for data protection key rings. It helps site owners add this capability to Orchard
   Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.DataProtection.Azure
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/DataProtection.Azure/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.DataProtection.Azure
 tags: ["Orchard Core", "Security"]
 author:

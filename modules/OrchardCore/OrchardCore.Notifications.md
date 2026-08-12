@@ -6,7 +6,7 @@ description:
   Notifications area, making the package easier to find when browsing related Orchard Core capabilities,
   dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Notifications
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Notifications/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Notifications
 tags: ["Orchard Core"]
 author:

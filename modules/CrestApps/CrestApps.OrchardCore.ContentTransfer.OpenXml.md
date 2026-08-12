@@ -5,7 +5,7 @@ description:
   Adds .xlsx spreadsheet support to the Content Transfer module. It helps site owners add this capability to
   Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.ContentTransfer.OpenXml
-documentationUrl: https://orchardcore.crestapps.com/docs/modules/content-transfer
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.ContentTransfer.OpenXml
 tags: ["crestapps", "Content Management"]
 author:

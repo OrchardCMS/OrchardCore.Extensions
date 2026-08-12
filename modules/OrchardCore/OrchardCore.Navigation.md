@@ -5,7 +5,7 @@ description:
   The Navigation module allows you to define menus and display them. It helps site owners add this capability to
   Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Navigation
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Navigation/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Navigation
 tags: ["Orchard Core", "Navigation"]
 author:

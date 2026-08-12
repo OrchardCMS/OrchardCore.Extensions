@@ -6,7 +6,7 @@ description:
   XML-RPC and Remote Publishing features in the Infrastructure area, making the package easier to find when
   browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.XmlRpc
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/XmlRpc/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.XmlRpc
 tags: ["Orchard Core"]
 author:

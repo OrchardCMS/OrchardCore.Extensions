@@ -6,7 +6,7 @@ description:
   Content Management and Search area, making the package easier to find when browsing related Orchard Core
   capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Media
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Media/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Media
 tags: ["Orchard Core"]
 author:

@@ -7,7 +7,7 @@ description:
   Management area, making the package easier to find when browsing related Orchard Core capabilities,
   dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.ContentFields
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/ContentFields/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.ContentFields
 tags: ["Orchard Core", "Content Management"]
 author:

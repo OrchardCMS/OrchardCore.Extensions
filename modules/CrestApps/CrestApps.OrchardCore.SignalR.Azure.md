@@ -6,7 +6,7 @@ description:
   this capability to Orchard Core sites while exposing package, dependency, and documentation details in the
   extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.SignalR.Azure
-documentationUrl: https://orchardcore.crestapps.com/docs/modules/signalr
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.SignalR.Azure
 tags: ["crestapps", "Communication"]
 author:

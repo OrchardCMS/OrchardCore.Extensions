@@ -6,7 +6,7 @@ description:
   Entra ID (Azure Active Directory) Authentication features in the Microsoft Authentication area, making the
   package easier to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Microsoft.Authentication
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Microsoft.Authentication/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Microsoft.Authentication
 tags: ["Orchard Core", "Microsoft Authentication"]
 author:

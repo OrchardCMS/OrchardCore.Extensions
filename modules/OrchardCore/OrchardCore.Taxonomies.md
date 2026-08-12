@@ -6,7 +6,7 @@ description:
   Contents List Filters features in the Content Management area, making the package easier to find when browsing
   related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Taxonomies
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Taxonomies/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Taxonomies
 tags: ["Orchard Core"]
 author:

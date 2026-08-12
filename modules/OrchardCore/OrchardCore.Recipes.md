@@ -1,12 +1,12 @@
 ---
-title: OrchardCore.Recipes
+title: Recipes
 slug: OrchardCore.Recipes
 description:
   The Recipes module allows you to execute recipe steps from json files. It includes Recipes and Recipes Core
   Services features in the Infrastructure area, making the package easier to find when browsing related Orchard
   Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Recipes
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Recipes/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Recipes
 tags: ["Orchard Core"]
 author:

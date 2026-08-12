@@ -6,7 +6,7 @@ description:
   owners add this capability to Orchard Core sites while exposing package, dependency, and documentation details
   in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.SignalR.Redis
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/SignalR.Redis/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.SignalR.Redis
 tags: ["Orchard Core", "Infrastructure"]
 author:

@@ -6,7 +6,7 @@ description:
   commerce capabilities while exposing package, dependency, source, and documentation details in the extensions
   gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/src/Modules/OrchardCore.Commerce.Promotion
-documentationUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/src/Modules/OrchardCore.Commerce.Promotion
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Commerce.Promotion
 tags: ["Orchard Core", "Commerce", "e-Commerce", "Discounts", "Promotions"]
 author:

@@ -6,7 +6,7 @@ description:
   capability to Orchard Core sites while exposing package, dependency, and documentation details in the
   extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.PhoneNumbers
-documentationUrl: https://orchardcore.crestapps.com/docs/modules/content-fields
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.PhoneNumbers
 tags: ["crestapps", "Phone Verification"]
 author:

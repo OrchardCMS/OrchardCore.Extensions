@@ -6,7 +6,7 @@ description:
   related features in the Meta area, making the package easier to find when browsing related Orchard Core
   capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Facebook
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Facebook/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Facebook
 tags: ["Orchard Core", "Meta"]
 author:

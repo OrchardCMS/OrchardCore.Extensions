@@ -5,7 +5,7 @@ description:
   Provides a log for recording and viewing back-end changes. It helps site owners add this capability to Orchard
   Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.AuditTrail
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/AuditTrail/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.AuditTrail
 tags: ["Orchard Core", "Security"]
 author:

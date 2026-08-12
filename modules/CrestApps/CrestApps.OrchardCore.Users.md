@@ -6,7 +6,7 @@ description:
   Name and User Avatar features in the Users area, making the package easier to find when browsing related
   Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.Users
-documentationUrl: https://orchardcore.crestapps.com/docs/modules/users
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.Users
 tags: ["crestapps", "Users"]
 author:

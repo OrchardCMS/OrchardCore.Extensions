@@ -6,7 +6,7 @@ description:
   capability to Orchard Core sites while exposing package, dependency, and documentation details in the
   extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Flows
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Flows/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Flows
 tags: ["Orchard Core"]
 author:

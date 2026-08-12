@@ -5,7 +5,7 @@ description:
   Provides support for data localization. It helps site owners add this capability to Orchard Core sites while
   exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.DataLocalization
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/DataLocalization/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.DataLocalization
 tags: ["Orchard Core", "Internationalization"]
 author:

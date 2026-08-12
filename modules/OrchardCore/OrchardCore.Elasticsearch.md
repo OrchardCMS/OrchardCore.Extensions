@@ -7,7 +7,7 @@ description:
   making the package easier to find when browsing related Orchard Core capabilities, dependencies, and
   documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Elasticsearch
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Elasticsearch/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Elasticsearch
 tags: ["Orchard Core"]
 author:

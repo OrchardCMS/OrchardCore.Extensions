@@ -6,7 +6,7 @@ description:
   Cache and Amazon Media Image Cache (Obsolete) features in the Hosting area, making the package easier to find
   when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Media.AmazonS3
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Media.AmazonS3/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Media.AmazonS3
 tags: ["Orchard Core"]
 author:

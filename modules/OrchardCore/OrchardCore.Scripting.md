@@ -5,7 +5,7 @@ description:
   The Scripting module adds scripting capabilities. It helps site owners add this capability to Orchard Core
   sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Scripting
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Scripting/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Scripting
 tags: ["Orchard Core", "Infrastructure"]
 author:

@@ -6,7 +6,7 @@ description:
   capability to Orchard Core sites while exposing package, dependency, and documentation details in the
   extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Mcp.Resources.Ftp
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/mcp/ftp
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.AI.Mcp.Resources.Ftp
 tags: ["crestapps"]
 author:

@@ -1,5 +1,5 @@
 ---
-title: "Orchard Core Contrib Admin Theme"
+title: "Admin Theme (Contrib)"
 slug: OrchardCoreContrib.Themes.Admin
 description:
   The default Admin theme. Use this community-maintained Orchard Core theme to customize the site experience

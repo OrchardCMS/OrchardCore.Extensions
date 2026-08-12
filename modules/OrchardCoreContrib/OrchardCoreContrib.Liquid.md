@@ -1,5 +1,5 @@
 ---
-title: "Orchard Core Contrib - Liquid"
+title: "Liquid (Contrib)"
 slug: OrchardCoreContrib.Liquid
 description:
   Provides a list of useful liquid filters. It helps Orchard Core sites add this community-maintained capability

@@ -5,7 +5,7 @@ description:
   The Resources module allows you to declare scripts and stylesheets. It helps site owners add this capability
   to Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Resources
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Resources/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Resources
 tags: ["Orchard Core", "Theming"]
 author:

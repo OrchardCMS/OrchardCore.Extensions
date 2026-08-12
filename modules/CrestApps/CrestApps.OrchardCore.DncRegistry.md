@@ -6,7 +6,7 @@ description:
   related features in the Compliance area, making the package easier to find when browsing related Orchard Core
   capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.DncRegistry
-documentationUrl: https://orchardcore.crestapps.com/docs/modules/dnc-registry
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.DncRegistry
 tags: ["crestapps", "Compliance"]
 author:

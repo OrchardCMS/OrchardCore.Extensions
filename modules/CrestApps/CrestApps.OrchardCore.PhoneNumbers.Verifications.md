@@ -6,7 +6,7 @@ description:
   AbstractAPI Phone Number Verification and related features in the Phone Verification area, making the package
   easier to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.PhoneNumbers.Verifications
-documentationUrl: https://orchardcore.crestapps.com/docs/modules/phone-number-verifications-veriphone
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.PhoneNumbers.Verifications
 tags: ["crestapps", "Phone Verification"]
 author:

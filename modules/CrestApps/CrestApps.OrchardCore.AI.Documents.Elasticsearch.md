@@ -5,7 +5,7 @@ description:
   Provides services to index AI Documents in Elasticsearch indexes. It helps site owners add this capability to
   Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Documents.Elasticsearch
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/documents/elasticsearch
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.AI.Documents.Elasticsearch
 tags: ["crestapps", "Artificial Intelligence - Knowledgebase"]
 author:

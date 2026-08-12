@@ -6,7 +6,7 @@ description:
   OpenID Connect Client Integration and related features in the OpenID Connect area, making the package easier
   to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.OpenId
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/OpenId/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.OpenId
 tags: ["Orchard Core"]
 author:

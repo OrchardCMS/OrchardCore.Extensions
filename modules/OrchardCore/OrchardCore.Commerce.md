@@ -1,11 +1,11 @@
 ---
-title: "OrchardCore.Commerce"
+title: E-commerce
 slug: OrchardCore.Commerce
 description:
   The commerce module for Orchard Core. It helps Orchard Core sites add commerce capabilities while exposing
   package, dependency, source, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/src/Modules/OrchardCore.Commerce
-documentationUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/src/Modules/OrchardCore.Commerce
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Commerce
 tags: ["Orchard Core", "Commerce", "e-Commerce"]
 author:

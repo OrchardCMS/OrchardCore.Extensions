@@ -6,7 +6,7 @@ description:
   Sitemaps Cleanup features in the Content Management area, making the package easier to find when browsing
   related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Sitemaps
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Sitemaps/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Sitemaps
 tags: ["Orchard Core"]
 author:

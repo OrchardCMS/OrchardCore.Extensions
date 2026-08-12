@@ -5,7 +5,7 @@ description:
   Provides the AI Chat Interactions module for Orchard Core. It helps site owners add this capability to Orchard
   Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Chat.Interactions
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/chat-interactions
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.AI.Chat.Interactions
 tags: ["crestapps"]
 author:

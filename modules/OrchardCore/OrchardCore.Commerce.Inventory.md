@@ -5,7 +5,7 @@ description:
   Inventory management for Orchard Core Commerce. It helps Orchard Core sites add commerce capabilities while
   exposing package, dependency, source, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/src/Modules/OrchardCore.Commerce.Inventory
-documentationUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/src/Modules/OrchardCore.Commerce.Inventory
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Commerce.Inventory
 tags: ["Orchard Core", "Commerce", "e-Commerce", "Inventory"]
 author:

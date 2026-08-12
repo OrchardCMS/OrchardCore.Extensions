@@ -5,7 +5,7 @@ description:
   Provides the OpenAI Chat module for Orchard Core. It helps site owners add this capability to Orchard Core
   sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.OpenAI
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/providers/openai
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.OpenAI
 tags: ["crestapps"]
 author:

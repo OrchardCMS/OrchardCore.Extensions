@@ -6,7 +6,7 @@ description:
   area, making the package easier to find when browsing related Orchard Core capabilities, dependencies, and
   documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.ReCaptcha
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/ReCaptcha/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.ReCaptcha
 tags: ["Orchard Core"]
 author:

@@ -5,7 +5,7 @@ description:
   Provides the services required to host and consume SignalR hubs. It helps site owners add this capability to
   Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.SignalR
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/SignalR/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.SignalR
 tags: ["Orchard Core", "Infrastructure"]
 author:

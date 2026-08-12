@@ -5,7 +5,7 @@ description:
   Adds feeds capabilities. It helps site owners add this capability to Orchard Core sites while exposing
   package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Feeds
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Feeds/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Feeds
 tags: ["Orchard Core", "Content"]
 author:

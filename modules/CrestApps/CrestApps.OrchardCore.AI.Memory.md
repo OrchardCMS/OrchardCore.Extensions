@@ -5,7 +5,7 @@ description:
   Provides the AI Memory module for Orchard Core. It helps site owners add this capability to Orchard Core sites
   while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Memory
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/memory
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.AI.Memory
 tags: ["crestapps"]
 author:

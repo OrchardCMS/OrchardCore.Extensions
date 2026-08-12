@@ -6,7 +6,7 @@ description:
   capability to Orchard Core sites while exposing package, dependency, and documentation details in the
   extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.Roles
-documentationUrl: https://orchardcore.crestapps.com/docs/modules/roles
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.Roles
 tags: ["crestapps", "Roles Core Services"]
 author:

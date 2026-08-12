@@ -5,7 +5,7 @@ description:
   Provides frontend search capabilities against indexes. It helps site owners add this capability to Orchard
   Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Search
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Search/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Search
 tags: ["Orchard Core"]
 author:

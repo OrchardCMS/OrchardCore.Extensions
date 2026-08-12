@@ -1,5 +1,5 @@
 ---
-title: "Orchard Core Contrib - Contents"
+title: "Contents (Contrib)"
 slug: OrchardCoreContrib.Contents
 description:
   Provides features related to content management, including share draft contents. It helps Orchard Core sites

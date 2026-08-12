@@ -6,7 +6,7 @@ description:
   add this capability to Orchard Core sites while exposing package, dependency, and documentation details in the
   extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Documents.OpenXml
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/documents/openxml
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.AI.Documents.OpenXml
 tags: ["crestapps", "Artificial Intelligence - Knowledgebase"]
 author:

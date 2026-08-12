@@ -6,7 +6,7 @@ description:
   Picker and Localized Content Item Sitemaps features in the Internationalization area, making the package
   easier to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.ContentLocalization
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/ContentLocalization/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.ContentLocalization
 tags: ["Orchard Core", "Internationalization"]
 author:

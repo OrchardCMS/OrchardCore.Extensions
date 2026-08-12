@@ -6,7 +6,7 @@ description:
   time. It helps site owners add this capability to Orchard Core sites while exposing package, dependency, and
   documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.ArchiveLater
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/ArchiveLater/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.ArchiveLater
 tags: ["Orchard Core", "Content Management"]
 author:

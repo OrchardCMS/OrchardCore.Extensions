@@ -6,7 +6,7 @@ description:
   Infrastructure area, making the package easier to find when browsing related Orchard Core capabilities,
   dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Tenants
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Tenants/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Tenants
 tags: ["Orchard Core"]
 author:

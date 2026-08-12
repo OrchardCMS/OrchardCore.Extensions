@@ -5,7 +5,7 @@ description:
   Provides friendly named time zone maps and time zone picker services. It helps site owners add this capability
   to Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.TimeZones
-documentationUrl: https://orchardcore.crestapps.com/docs/modules/time-zones
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.TimeZones
 tags: ["crestapps", "Infrastructure"]
 author:

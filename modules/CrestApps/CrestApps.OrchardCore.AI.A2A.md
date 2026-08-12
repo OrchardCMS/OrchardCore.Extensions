@@ -6,7 +6,7 @@ description:
   and Agent-to-Agent (A2A) Host features in the Artificial Intelligence - A2A area, making the package easier to
   find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.A2A
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/a2a/
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.AI.A2A
 tags: ["crestapps"]
 author:

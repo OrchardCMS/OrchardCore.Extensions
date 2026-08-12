@@ -5,7 +5,7 @@ description:
   Provides SEO meta features. It helps site owners add this capability to Orchard Core sites while exposing
   package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Seo
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Seo/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Seo
 tags: ["Orchard Core", "Content Management"]
 author:

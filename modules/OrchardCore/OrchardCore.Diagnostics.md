@@ -5,7 +5,7 @@ description:
   Provides services to handle errors. It helps site owners add this capability to Orchard Core sites while
   exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Diagnostics
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Diagnostics/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Diagnostics
 tags: ["Orchard Core", "Infrastructure"]
 author:

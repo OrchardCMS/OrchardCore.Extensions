@@ -6,7 +6,7 @@ description:
   Placements file storage features in the Development area, making the package easier to find when browsing
   related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.Placements
-documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/Placements/
+documentationUrl: https://docs.orchardcore.net
 nuGetPackageId: OrchardCore.Placements
 tags: ["Orchard Core"]
 author:

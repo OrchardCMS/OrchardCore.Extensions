@@ -6,7 +6,7 @@ description:
   Interactions and related features in the Artificial Intelligence - Knowledgebase area, making the package
   easier to find when browsing related Orchard Core capabilities, dependencies, and documentation.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Documents
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/documents/
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.AI.Documents
 tags: ["crestapps"]
 author:

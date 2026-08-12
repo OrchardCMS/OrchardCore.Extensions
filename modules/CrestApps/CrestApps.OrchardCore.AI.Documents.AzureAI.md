@@ -5,7 +5,7 @@ description:
   Provides services to index AI Documents in Azure AI Search indexes. It helps site owners add this capability
   to Orchard Core sites while exposing package, dependency, and documentation details in the extensions gallery.
 projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Documents.AzureAI
-documentationUrl: https://orchardcore.crestapps.com/docs/ai/documents/azure-ai
+documentationUrl: https://orchardcore.crestapps.com
 nuGetPackageId: CrestApps.OrchardCore.AI.Documents.AzureAI
 tags: ["crestapps", "Artificial Intelligence - Knowledgebase"]
 author:
