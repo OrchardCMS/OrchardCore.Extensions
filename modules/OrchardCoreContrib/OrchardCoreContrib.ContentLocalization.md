@@ -1,5 +1,5 @@
 ---
-title: "Content Localization"
+title: "Orchard Core Contrib - Content Localization"
 slug: OrchardCoreContrib.ContentLocalization
 description:
   Provides a list of content localization features such as localization matrix. It helps Orchard Core sites add

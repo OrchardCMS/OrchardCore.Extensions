@@ -1,5 +1,5 @@
 ---
-title: "Content Preview"
+title: "Orchard Core Contrib - Content Preview"
 slug: OrchardCoreContrib.ContentPreview
 description:
   Provides a list of content preview features such as page preview bar. It helps Orchard Core sites add this

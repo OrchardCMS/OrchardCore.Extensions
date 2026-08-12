@@ -1,5 +1,5 @@
 ---
-title: "SignalR Redis Backplane"
+title: "CrestApps SignalR Redis Backplane"
 slug: CrestApps.OrchardCore.SignalR.Redis
 description:
   Routes SignalR messages across application nodes through a tenant-qualified Redis backplane. It helps site

@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Artificial Intelligence - Copilot"
 slug: CrestApps.OrchardCore.AI.Chat.Copilot
 description:
   Provides the Artificial Intelligence module for Orchard Core. It helps site owners add this capability to

@@ -1,5 +1,5 @@
 ---
-title: "SignalR Azure Backplane"
+title: "CrestApps SignalR Azure Backplane"
 slug: CrestApps.OrchardCore.SignalR.Azure
 description:
   Routes SignalR messages across application nodes through the Azure SignalR Service. It helps site owners add

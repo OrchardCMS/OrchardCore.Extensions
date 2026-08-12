@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Artificial Intelligence - Core"
 slug: CrestApps.OrchardCore.AI
 description:
   Provides the Artificial Intelligence module for Orchard Core. It includes AI Services, AI Chat Services and

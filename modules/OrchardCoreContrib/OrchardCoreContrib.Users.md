@@ -1,5 +1,5 @@
 ---
-title: "Users"
+title: "Orchard Core Contrib - Users"
 slug: OrchardCoreContrib.Users
 description:
   Provides a list of users features such as Impersonation. It helps Orchard Core sites add this

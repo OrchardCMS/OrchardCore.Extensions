@@ -1,5 +1,5 @@
 ---
-title: "SignalR"
+title: "CrestApps SignalR"
 slug: CrestApps.OrchardCore.SignalR
 description:
   Provides all services needed to use SignalR functionality. It helps site owners add this capability to Orchard

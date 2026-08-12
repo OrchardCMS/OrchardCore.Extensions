@@ -1,5 +1,5 @@
 ---
-title: "Html"
+title: "Orchard Core Contrib - HTML"
 slug: OrchardCoreContrib.Html
 description:
   The Html module enables content items to have rich content using Grapes JS. It helps Orchard Core sites add

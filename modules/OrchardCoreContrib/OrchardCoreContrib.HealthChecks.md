@@ -1,5 +1,5 @@
 ---
-title: "Health Checks"
+title: "Orchard Core Contrib - Health Checks"
 slug: OrchardCoreContrib.HealthChecks
 description:
   Provides health checks for your website. It helps Orchard Core sites add this community-maintained capability

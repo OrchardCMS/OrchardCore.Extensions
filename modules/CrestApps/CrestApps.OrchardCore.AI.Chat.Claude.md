@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Artificial Intelligence - Claude"
 slug: CrestApps.OrchardCore.AI.Chat.Claude
 description:
   Provides the Artificial Intelligence module for Orchard Core. It helps site owners add this capability to

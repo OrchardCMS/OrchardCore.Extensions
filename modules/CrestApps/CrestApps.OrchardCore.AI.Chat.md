@@ -1,5 +1,5 @@
 ---
-title: "Artificial Intelligence"
+title: "Artificial Intelligence - Chat"
 slug: CrestApps.OrchardCore.AI.Chat
 description:
   Provides the Artificial Intelligence module for Orchard Core. It includes AI Chat, AI Chat Admin Widget and AI
@@ -14,7 +14,7 @@ author:
   url: https://crestapps.com
   imageUrl: https://avatars.githubusercontent.com/u/111536479
 licenses: [MIT]
-pubDatetime: 2026-08-12T12:00:00Z
+pubDatetime: 2026-08-12T18:03:00Z
 features:
   - id: CrestApps.OrchardCore.AI.Chat
     name: "AI Chat"
