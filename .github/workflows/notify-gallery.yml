@@ -15,7 +15,28 @@ on:
 jobs:
   notify:
     runs-on: ubuntu-latest
+    env:
+      GALLERY_REPOSITORY: OrchardCMS/OrchardCore.Gallery
     steps:
+      - name: Verify gallery dispatch token
+        env:
+          GH_TOKEN: ${{ secrets.GALLERY_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::GALLERY_DISPATCH_TOKEN is not configured."
+            exit 1
+          fi
+
+          if ! gh api /user --jq '.login' >/dev/null; then
+            echo "::error::GALLERY_DISPATCH_TOKEN is not a valid GitHub token."
+            exit 1
+          fi
+
+          if ! gh api "/repos/${GALLERY_REPOSITORY}" --jq '.full_name' >/dev/null; then
+            echo "::error::GALLERY_DISPATCH_TOKEN is valid, but it cannot access ${GALLERY_REPOSITORY}. Verify the token is authorized for the OrchardCMS organization, selected for this private repository, and owned by a user with access to it."
+            exit 1
+          fi
+
       - name: Trigger gallery rebuild
         env:
           GH_TOKEN: ${{ secrets.GALLERY_DISPATCH_TOKEN }}
@@ -23,6 +44,6 @@ jobs:
           gh api \
             --method POST \
             -H "Accept: application/vnd.github+json" \
-            /repos/OrchardCMS/OrchardCore.Gallery/dispatches \
+            "/repos/${GALLERY_REPOSITORY}/dispatches" \
             -f event_type=extensions-updated \
             -f "client_payload[source_sha]=${{ github.sha }}"
