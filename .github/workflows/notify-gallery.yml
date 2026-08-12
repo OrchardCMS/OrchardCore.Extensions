@@ -1,0 +1,28 @@
+name: Notify Orchard Core Gallery
+
+# When modules or themes change on main, tell the Orchard Core Gallery to
+# rebuild and redeploy so the published site reflects the latest catalog.
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "modules/**"
+      - "themes/**"
+  # Allow manual triggering from the Actions tab too.
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger gallery rebuild
+        env:
+          GH_TOKEN: ${{ secrets.GALLERY_DISPATCH_TOKEN }}
+        run: |
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            /repos/OrchardCMS/OrchardCore.Gallery/dispatches \
+            -f event_type=extensions-updated \
+            -f "client_payload[source_sha]=${{ github.sha }}"

@@ -10,6 +10,7 @@ URL_FIELDS = ("projectUrl", "documentationUrl")
 SLUG_PATTERN = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 URL_PATTERN = re.compile(r"^https?://[^\s\"']+$")
 FEATURE_DESCRIPTION_MIN_LENGTH = 180
+TEXT_FILE_EXTENSIONS = {".md", ".py", ".yml", ".yaml", ".json", ".sh"}
 
 
 def fail(errors, path, message):
@@ -216,11 +217,26 @@ def validate_entry(path, all_slugs, all_packages, all_features, errors):
                 fail(errors, path, f"feature '{feature_id}' dependencies must be a list")
 
 
+def validate_line_endings(errors):
+    for path in sorted(ROOT.rglob("*")):
+        if not path.is_file() or ".git" in path.parts:
+            continue
+
+        if path.suffix not in TEXT_FILE_EXTENSIONS and path.name != ".gitattributes":
+            continue
+
+        content = path.read_bytes()
+        if b"\r\n" in content or b"\r" in content:
+            fail(errors, path, "text files must use LF line endings")
+
+
 def main():
     errors = []
     all_slugs = {}
     all_packages = {}
     all_features = {}
+
+    validate_line_endings(errors)
 
     for root in CATALOG_ROOTS:
         root_path = ROOT / root

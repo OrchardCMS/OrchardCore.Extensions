@@ -2,12 +2,6 @@ name: Validate catalog
 
 on:
   pull_request:
-    paths:
-      - "modules/**"
-      - "themes/**"
-      - "scripts/validate-catalog.py"
-      - ".github/workflows/validate-catalog.yml"
-      - "README.md"
   push:
     branches:
       - main
