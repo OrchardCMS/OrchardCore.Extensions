@@ -1,0 +1,29 @@
+---
+title: "Model Context Protocol (MCP) FTP Resource"
+slug: CrestApps.OrchardCore.AI.Mcp.Resources.Ftp
+description: "Provides the Model Context Protocol (MCP) FTP Resource module for Orchard Core."
+projectUrl: https://github.com/CrestApps/CrestApps.OrchardCore/tree/main/src/Modules/CrestApps.OrchardCore.AI.Mcp.Resources.Ftp
+documentationUrl: https://orchardcore.crestapps.com/docs/ai/mcp/ftp
+nuGetPackageId: CrestApps.OrchardCore.AI.Mcp.Resources.Ftp
+tags: ["CrestApps"]
+author:
+  name: The CrestApps Team
+  url: https://www.crestapps.com
+  imageUrl: https://avatars.githubusercontent.com/u/181091452
+licenses: [MIT]
+pubDatetime: 2026-08-12T12:00:00Z
+features:
+  - id: CrestApps.OrchardCore.AI.Mcp.Resources.Ftp
+    name: "Model Context Protocol (MCP) FTP Resource"
+    description: "Provides FTP/FTPS resource support for the MCP Server, allowing remote files to be exposed as MCP resources. Its manifest-backed feature ID is `CrestApps.OrchardCore.AI.Mcp.Resources.Ftp`, and it is categorized as Artificial Intelligence - MCP. It depends on `CrestApps.OrchardCore.AI.Mcp.Server`, so Orchard Core enables that dependency when this feature is enabled. This description is based on the CrestApps manifest and documentation; in Orchard Core, feature entries are shown in the feature management UI with their description, category, and dependencies."
+    category: "Artificial Intelligence - MCP"
+    dependencies:
+      - CrestApps.OrchardCore.AI.Mcp.Server
+---
+Provides the Model Context Protocol (MCP) FTP Resource module for Orchard Core.
+
+## Features
+
+### Model Context Protocol (MCP) FTP Resource
+
+Provides FTP/FTPS resource support for the MCP Server, allowing remote files to be exposed as MCP resources. Its manifest-backed feature ID is `CrestApps.OrchardCore.AI.Mcp.Resources.Ftp`, and it is categorized as Artificial Intelligence - MCP. It depends on `CrestApps.OrchardCore.AI.Mcp.Server`, so Orchard Core enables that dependency when this feature is enabled. This description is based on the CrestApps manifest and documentation; in Orchard Core, feature entries are shown in the feature management UI with their description, category, and dependencies.

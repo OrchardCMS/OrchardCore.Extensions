@@ -1,0 +1,31 @@
+---
+title: Content Types
+slug: OrchardCore.ContentTypes
+description:
+  Content Types modules enables the creation and alteration of content types not based on code.
+projectUrl: https://github.com/OrchardCMS/OrchardCore/tree/main/src/OrchardCore.Modules/OrchardCore.ContentTypes
+documentationUrl: https://docs.orchardcore.net/en/latest/reference/modules/ContentTypes/
+nuGetPackageId: OrchardCore.ContentTypes
+tags: ["Orchard Core", "Content Management"]
+author:
+  name: The Orchard Core Team
+  url: https://github.com/OrchardCMS
+  imageUrl: https://avatars.githubusercontent.com/u/9933239
+licenses: [BSD-3-Clause]
+dependencies: ["OrchardCore.Contents"]
+pubDatetime: 2026-08-12T12:00:00Z
+features:
+  - id: OrchardCore.ContentTypes
+    name: Content Types
+    description: "Content Types modules enables the creation and alteration of content types not based on code. Its manifest-backed feature ID is `OrchardCore.ContentTypes`, and it is categorized as Content Management. It depends on `OrchardCore.Contents`, so Orchard Core enables that dependency when this feature is enabled. This description is based on the Orchard Core manifest and official documentation; in Orchard Core, feature entries are shown in the feature management UI with their description, category, and dependencies."
+    category: Content Management
+    dependencies:
+      - OrchardCore.Contents
+---
+Content Types modules enables the creation and alteration of content types not based on code.
+
+## Features
+
+### Content Types
+
+Content Types modules enables the creation and alteration of content types not based on code. Its manifest-backed feature ID is `OrchardCore.ContentTypes`, and it is categorized as Content Management. It depends on `OrchardCore.Contents`, so Orchard Core enables that dependency when this feature is enabled. This description is based on the Orchard Core manifest and official documentation; in Orchard Core, feature entries are shown in the feature management UI with their description, category, and dependencies.
