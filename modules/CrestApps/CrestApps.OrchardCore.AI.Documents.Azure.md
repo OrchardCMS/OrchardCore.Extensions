@@ -10,7 +10,7 @@ documentationUrl: https://orchardcore.crestapps.com/docs/ai/documents/azure-blob
 nuGetPackageId: CrestApps.OrchardCore.AI.Documents.Azure
 tags: ["crestapps", "Artificial Intelligence - Knowledgebase"]
 author:
-  name: The CrestApps Team
+  name: CrestApps
   url: https://crestapps.com
   imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
 licenses: [MIT]
