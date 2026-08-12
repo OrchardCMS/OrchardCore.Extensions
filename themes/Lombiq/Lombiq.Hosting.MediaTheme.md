@@ -11,7 +11,7 @@ nuGetPackageId: Lombiq.Hosting.MediaTheme
 tags:
   - media
 author:
-  name: Lombiq
+  name: Lombiq Technologies
   url: https://github.com/Lombiq
   imageUrl: https://avatars.githubusercontent.com/u/8158177
 licenses: [BSD]

@@ -14,6 +14,7 @@ author:
   name: Antoine Griffard
   url: https://github.com/agriffard
   imageUrl: https://avatars.githubusercontent.com/u/703248
+licenses: []
 pubDatetime: 2024-09-15T12:00:00Z
 features:
   - id: Prism.OrchardCore

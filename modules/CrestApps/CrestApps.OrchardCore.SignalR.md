@@ -11,7 +11,7 @@ tags: ["crestapps", "Communication"]
 author:
   name: CrestApps
   url: https://crestapps.com
-  imageUrl: https://avatars.githubusercontent.com/u/111536479?s=400&u=d9bdde0365d02b3ed9184034accb696cb12863c5&v=4
+  imageUrl: https://avatars.githubusercontent.com/u/111536479
 licenses: [MIT]
 pubDatetime: 2026-08-12T12:00:00Z
 features:

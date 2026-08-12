@@ -13,6 +13,7 @@ author:
   name: Antoine Griffard
   url: https://github.com/agriffard
   imageUrl: https://avatars.githubusercontent.com/u/703248
+licenses: []
 versions:
   - orchard: 1.8.4
     package: 1.8.4

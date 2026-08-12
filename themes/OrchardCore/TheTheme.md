@@ -11,7 +11,7 @@ tags: ["Bootstrap", "Default"]
 author:
   name: The Orchard Core Team
   url: https://docs.orchardcore.net
-  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/favicon.png
 licenses: [BSD-3-Clause]
 dependencies: ["OrchardCore.Themes"]
 pubDatetime: 2026-08-12T12:00:00Z

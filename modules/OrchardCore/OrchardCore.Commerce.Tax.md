@@ -9,9 +9,9 @@ documentationUrl: https://github.com/OrchardCMS/OrchardCore.Commerce/tree/main/s
 nuGetPackageId: OrchardCore.Commerce.Tax
 tags: ["Orchard Core", "Commerce", "e-Commerce", "Tax", "Sales Tax", "VAT"]
 author:
-  name: The Orchard Team
+  name: The Orchard Core Team
   url: https://docs.orchardcore.net
-  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/orchard-logo.png
+  imageUrl: https://docs.orchardcore.net/en/latest/assets/images/favicon.png
 licenses: [BSD-3-Clause]
 pubDatetime: 2026-07-30T23:08:43Z
 features:

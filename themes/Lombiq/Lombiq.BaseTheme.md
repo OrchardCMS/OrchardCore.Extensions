@@ -11,7 +11,7 @@ nuGetPackageId: Lombiq.BaseTheme
 tags:
   - basetheme
 author:
-  name: Lombiq
+  name: Lombiq Technologies
   url: https://github.com/Lombiq
   imageUrl: https://avatars.githubusercontent.com/u/8158177
 licenses: [BSD]
