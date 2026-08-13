@@ -14,8 +14,8 @@ author:
   imageUrl: https://avatars.githubusercontent.com/u/65380704
 licenses: [BSD-3-Clause]
 versions:
-  - orchard: 1.x
-  - orchard: 2.x
+  - 1.x
+  - 2.x
 pubDatetime: 2026-08-12T18:00:00Z
 features:
   - id: OrchardCoreContrib.UserGroups

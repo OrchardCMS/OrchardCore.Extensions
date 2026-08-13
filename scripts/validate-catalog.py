@@ -9,6 +9,8 @@ REQUIRED_FIELDS = ("title", "slug", "description", "projectUrl", "nuGetPackageId
 URL_FIELDS = ("projectUrl", "documentationUrl")
 SLUG_PATTERN = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 URL_PATTERN = re.compile(r"^https?://[^\s\"']+$")
+VERSION_PATTERN = re.compile(r"^(?:\d+(?:\.\d+){0,2}|\d+(?:\.\d+)?\.x)$")
+BOOLEAN_VALUES = {"true", "false"}
 FEATURE_DESCRIPTION_MIN_LENGTH = 180
 TEXT_FILE_EXTENSIONS = {".md", ".py", ".yml", ".yaml", ".json", ".sh"}
 
@@ -64,6 +66,24 @@ def parse_frontmatter(frontmatter):
         fields[key] = "\n".join(block).strip()
 
     return fields
+
+
+def parse_versions(frontmatter):
+    match = re.search(r"^versions:[ \t]*\n((?:[ \t]+.*\n?)+)", frontmatter, re.MULTILINE)
+    if not match:
+        return None
+
+    items = []
+    for line in match.group(1).splitlines():
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if stripped.startswith("- "):
+            items.append(clean(stripped[2:].strip()))
+        else:
+            items.append(stripped)
+
+    return items
 
 
 def parse_author(frontmatter):
@@ -136,6 +156,41 @@ def parse_features(frontmatter):
     return features
 
 
+def validate_versions(path, frontmatter, fields, errors):
+    versions = parse_versions(frontmatter)
+    has_versions = bool(versions)
+
+    raw_flag = fields.get("compatibleWithAllVersions")
+    flag_is_true = False
+    if raw_flag is not None:
+        normalized = raw_flag.strip().lower()
+        if normalized not in BOOLEAN_VALUES:
+            fail(errors, path, "compatibleWithAllVersions must be a boolean (true or false)")
+        else:
+            flag_is_true = normalized == "true"
+
+    if versions is not None and not versions:
+        fail(errors, path, "versions must list at least one Orchard Core version when present")
+    elif versions is None and "versions" in fields:
+        fail(errors, path, "versions must list at least one Orchard Core version when present")
+
+    if versions:
+        seen = set()
+        for version in versions:
+            if ":" in version:
+                fail(errors, path, f"version '{version}' must be a string such as '2.0.0' or '2.x', not an object (for example '- orchard: 2.0.0')")
+                continue
+            if not VERSION_PATTERN.match(version):
+                fail(errors, path, f"version '{version}' must be an exact version (2.0.0) or wildcard (2.0, 2.0.x, or 2.x)")
+                continue
+            if version in seen:
+                fail(errors, path, f"duplicate version '{version}'")
+            seen.add(version)
+
+    if flag_is_true and has_versions:
+        fail(errors, path, "compatibleWithAllVersions cannot be true when versions are listed; use one or the other")
+
+
 def validate_entry(path, all_slugs, all_packages, all_features, errors):
     text = path.read_text(encoding="utf-8")
     frontmatter, body = split_frontmatter(text)
@@ -163,6 +218,8 @@ def validate_entry(path, all_slugs, all_packages, all_features, errors):
         value = fields.get(field)
         if value and not URL_PATTERN.match(value):
             fail(errors, path, f"field '{field}' must be an absolute http(s) URL without stray quotes")
+
+    validate_versions(path, frontmatter, fields, errors)
 
     slug = fields.get("slug", "")
     if slug:

@@ -15,8 +15,8 @@ author:
 licenses: [BSD-3-Clause]
 dependencies: ["OrchardCore.Contents"]
 versions:
-  - orchard: 1.x
-  - orchard: 2.x
+  - 1.x
+  - 2.x
 pubDatetime: 2026-08-12T18:02:00Z
 features:
   - id: OrchardCoreContrib.ViewCount

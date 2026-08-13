@@ -16,7 +16,7 @@ author:
   imageUrl: https://avatars.githubusercontent.com/u/8158177
 licenses: [BSD]
 versions:
-  - orchard: 2.x
+  - 2.x
 pubDatetime: 2024-09-15T12:00:00Z
 ---
 An Orchard Core base theme with reusable mixins, components, etc.

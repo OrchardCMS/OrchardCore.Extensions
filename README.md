@@ -34,7 +34,7 @@ Use the existing owner folder when one already exists. Create a new owner folder
 3. Include `documentationUrl` when documentation exists for the package. Use the package documentation site, not necessarily a page for a specific feature.
 4. For modules, include a `features` list. Add one feature for single-feature modules and one entry per feature for modules that expose multiple Orchard Core features.
 5. Add a short Markdown body describing what the package does and link to documentation, samples, or source when useful.
-6. Open a pull request. The validation workflow checks folder grouping, duplicate slugs/package IDs, required metadata, URLs, line endings, and module feature definitions.
+6. Open a pull request. The validation workflow checks folder grouping, duplicate slugs/package IDs, required metadata, URLs, line endings, version compatibility fields, and module feature definitions.
 
 ## Entry format
 
@@ -54,6 +54,9 @@ author:
   imageUrl: https://avatars.githubusercontent.com/u/000000
 licenses: [MIT]
 dependencies: ["OrchardCore.Contents"]
+versions:
+  - 2.x
+  - 1.8.4
 pubDatetime: 2026-08-12T12:00:00Z
 features:
   - id: Example.OrchardCore.Module
@@ -76,18 +79,24 @@ For first-party Orchard Core modules, set `documentationUrl` to <https://docs.or
 
 ### Orchard Core version compatibility
 
-Declare which Orchard Core versions a package supports with one of the following optional fields:
+Declare which Orchard Core versions a package supports with one of the following optional fields. Use `compatibleWithAllVersions` or `versions`, but never both.
 
-- Set `compatibleWithAllVersions: true` when the package supports every Orchard Core version. This is used for modules and themes maintained by The Orchard Core Team.
-- Otherwise, list the supported version families under `versions`, one `orchard` entry per family:
+- Set `compatibleWithAllVersions: true` when the package supports every Orchard Core version. Listings that use it appear on the **All versions** page and on every specific version page. This is used for modules and themes maintained by The Orchard Core Team.
+- Otherwise, list the supported Orchard Core versions under `versions` as an array of **strings**. Each value may be an exact version (`2.0.0`) or a wildcard (`2.0`, `2.0.x`, or `2.x`) that matches every version under it:
 
   ```yaml
   versions:
-    - orchard: 2.x
-    - orchard: 3.x
+    - 2.x
+    - 3.x
   ```
 
-Use `compatibleWithAllVersions` or `versions`, not both.
+  ```yaml
+  versions:
+    - 2.0.0
+    - 1.8.4
+  ```
+
+Each `versions` entry must be a plain string. The legacy object form (`- orchard: 2.0.0`) is no longer accepted in this catalog. The validator rejects object entries, invalid version strings, an empty `versions` list, and `compatibleWithAllVersions: true` combined with `versions`.
 
 ## Feature documentation
 

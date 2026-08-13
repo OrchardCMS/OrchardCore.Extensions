@@ -16,8 +16,8 @@ author:
 licenses: [BSD-3-Clause]
 dependencies: ["OrchardCore.Liquid", "OrchardCore.Users"]
 versions:
-  - orchard: 1.x
-  - orchard: 2.x
+  - 1.x
+  - 2.x
 pubDatetime: 2026-07-17T18:28:09Z
 features:
   - id: OrchardCoreContrib.Gravatar

@@ -15,8 +15,8 @@ author:
 licenses: [MIT]
 dependencies: ["CrestApps.OrchardCore.AI.Documents", "OrchardCore.Elasticsearch"]
 versions:
-  - orchard: 2.x
-  - orchard: 3.x
+  - 2.x
+  - 3.x
 pubDatetime: 2026-08-12T12:00:00Z
 features:
   - id: CrestApps.OrchardCore.AI.Documents.Elasticsearch
