@@ -15,6 +15,7 @@ author:
   imageUrl: https://docs.orchardcore.net/en/latest/assets/images/favicon.png
 licenses: [BSD-3-Clause]
 dependencies: ["OrchardCore.Contents"]
+compatibleWithAllVersions: true
 pubDatetime: 2026-08-12T12:00:00Z
 features:
   - id: OrchardCore.ContentTypes

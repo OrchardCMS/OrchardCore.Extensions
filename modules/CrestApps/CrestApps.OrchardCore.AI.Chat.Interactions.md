@@ -13,6 +13,9 @@ author:
   url: https://crestapps.com
   imageUrl: https://avatars.githubusercontent.com/u/111536479
 licenses: [MIT]
+versions:
+  - orchard: 2.x
+  - orchard: 3.x
 pubDatetime: 2026-08-12T18:04:00Z
 features:
   - id: CrestApps.OrchardCore.AI.Chat.Interactions

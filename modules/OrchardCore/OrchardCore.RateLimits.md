@@ -13,6 +13,7 @@ author:
   url: https://docs.orchardcore.net
   imageUrl: https://docs.orchardcore.net/en/latest/assets/images/favicon.png
 licenses: [BSD-3-Clause]
+compatibleWithAllVersions: true
 pubDatetime: 2026-08-12T12:00:00Z
 features:
   - id: OrchardCore.RateLimits

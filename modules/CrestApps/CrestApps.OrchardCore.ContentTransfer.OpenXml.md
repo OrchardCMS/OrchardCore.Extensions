@@ -14,6 +14,9 @@ author:
   imageUrl: https://avatars.githubusercontent.com/u/111536479
 licenses: [MIT]
 dependencies: ["CrestApps.OrchardCore.ContentTransfer"]
+versions:
+  - orchard: 2.x
+  - orchard: 3.x
 pubDatetime: 2026-08-12T12:00:00Z
 features:
   - id: CrestApps.OrchardCore.ContentTransfer.OpenXml

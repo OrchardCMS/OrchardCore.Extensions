@@ -15,6 +15,8 @@ author:
   url: https://github.com/EtchUk
   imageUrl: https://avatars.githubusercontent.com/u/4966219
 licenses: [MIT]
+versions:
+  - orchard: 1.8.x
 pubDatetime: 2024-09-15T12:00:00Z
 features:
   - id: Etch.OrchardCore.Blocks

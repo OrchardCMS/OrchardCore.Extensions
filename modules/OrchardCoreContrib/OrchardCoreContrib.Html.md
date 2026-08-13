@@ -14,6 +14,9 @@ author:
   url: https://github.com/OrchardCoreContrib
   imageUrl: https://avatars.githubusercontent.com/u/65380704
 licenses: [BSD-3-Clause]
+versions:
+  - orchard: 1.x
+  - orchard: 2.x
 pubDatetime: 2026-07-17T18:28:09Z
 features:
   - id: OrchardCoreContrib.Html.GrapesJS

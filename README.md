@@ -74,6 +74,21 @@ The required top-level fields are `title`, `slug`, `description`, `projectUrl`, 
 
 For first-party Orchard Core modules, set `documentationUrl` to <https://docs.orchardcore.net>. For CrestApps modules, set it to <https://orchardcore.crestapps.com>. OrchardCoreContrib package titles should use the `Name (Contrib)` format, such as `Content Localization (Contrib)`.
 
+### Orchard Core version compatibility
+
+Declare which Orchard Core versions a package supports with one of the following optional fields:
+
+- Set `compatibleWithAllVersions: true` when the package supports every Orchard Core version. This is used for modules and themes maintained by The Orchard Core Team.
+- Otherwise, list the supported version families under `versions`, one `orchard` entry per family:
+
+  ```yaml
+  versions:
+    - orchard: 2.x
+    - orchard: 3.x
+  ```
+
+Use `compatibleWithAllVersions` or `versions`, not both.
+
 ## Feature documentation
 
 Feature IDs must match the Orchard Core manifest IDs, not just the assembly or package name. If one package provides several features, document each feature separately with enough detail for gallery search results to explain what the feature does and what problem it solves. Feature descriptions should be full paragraphs; the validator requires at least 180 characters.
