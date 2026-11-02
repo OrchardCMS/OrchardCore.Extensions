@@ -5,7 +5,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG_ROOTS = ("modules", "themes")
-REQUIRED_FIELDS = ("title", "slug", "description", "projectUrl", "nuGetPackageId", "pubDatetime")
+REQUIRED_FIELDS = ("title", "slug", "description", "projectUrl", "pubDatetime")
 URL_FIELDS = ("projectUrl", "documentationUrl")
 SLUG_PATTERN = re.compile(r"^[A-Za-z0-9][A-Za-z0-9._-]*$")
 URL_PATTERN = re.compile(r"^https?://[^\s\"']+$")
