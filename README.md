@@ -73,7 +73,7 @@ Describe the package here.
 
 Themes use the same metadata but do not need a `features` list.
 
-The required top-level fields are `title`, `slug`, `description`, `projectUrl`, and `pubDatetime`. `nuGetPackageId` is optional; include it only when the package has a published NuGet package ID. `documentationUrl` is optional, but when present it must be an absolute `http` or `https` URL.
+The required top-level fields are `title`, `slug`, `description`, `projectUrl`, `nuGetPackageId`, and `pubDatetime`. `documentationUrl` is optional, but when present it must be an absolute `http` or `https` URL.
 
 For first-party Orchard Core modules, set `documentationUrl` to <https://docs.orchardcore.net>. For CrestApps modules, set it to <https://orchardcore.crestapps.com>. OrchardCoreContrib package titles should use the `Name (Contrib)` format, such as `Content Localization (Contrib)`.
 
