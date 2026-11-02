@@ -3,7 +3,7 @@ title: The Admin Liquid Theme
 slug: TheAdminLiquid
 description:
   Renders The Admin theme markup with Liquid templates that can be cloned and customized as admin templates.
-projectUrl: https://github.com/urbanit/OrchardCore/tree/TheAdminLiquid-upstream-main/src/OrchardCore.Themes/TheAdminLiquid
+projectUrl: https://github.com/urbanit/TheAdminLiquid
 dependencies: ["OrchardCore.Liquid", "TheAdmin"]
 tags: ["Admin", "Liquid"]
 author:
