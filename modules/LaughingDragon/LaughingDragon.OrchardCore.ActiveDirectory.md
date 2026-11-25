@@ -18,7 +18,7 @@ author:
 licenses: [MIT]
 versions:
   - 3.0.1
-pubDatetime: 2026-11-25T00:50:28Z
+pubDatetime: 2026-11-25T22:38:18Z
 ---
 
 Tor lets Active Directory domain accounts sign in on Orchard Core's own login page. A companion feature, **Tor Account**, gives each signed-in user an account page at `/account` for their own directory details, domain password, domain picture and contact details.
@@ -28,6 +28,6 @@ Tor lets Active Directory domain accounts sign in on Orchard Core's own login pa
 - **Follows Orchard's login.** Orchard's own login events and account checks run for directory sign-ins. Failures are throttled, logged and answered identically, and unexpected errors fail closed.
 - **Break-glass accounts.** Local Orchard accounts named in configuration keep signing in through Orchard's own login.
 
-**Status: preview (0.1.0-preview.1).** A line-by-line security review has been done and its fixes are in this release. The remaining risks are listed in the threat model in the repository. This release has been verified on one production site, against Orchard Core 3.0.1. Please report vulnerabilities through GitHub's private vulnerability reporting rather than a public issue.
+**Status: stable (1.0.0).** A line-by-line security review has been done and its fixes are in this release. The remaining risks are listed in the threat model in the repository. Within 1.x, setting keys, defaults, feature ids and permission names only change in a major version, and the repository documents every setting. This release has been verified on one production site, against Orchard Core 3.0.1 on .NET 10, and has not yet been run against a second directory, so reports from other domains are welcome. Please report vulnerabilities through GitHub's private vulnerability reporting rather than a public issue.
 
 **Limitations.** Directory users who have two-factor authentication turned on or required in Orchard are refused. The sign-in never says why it failed. Domain controllers must be reachable over LDAPS.
